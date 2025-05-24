@@ -1,0 +1,35 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+.env
+
+# Logs
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.bak
+
+# Configurações locais de editores
+.vscode/
+.idea/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de pacotes
+dist/
+build/
+*.egg-info/
+
+# Arquivos do Google Colab
+*.ipynb
